@@ -17,4 +17,4 @@ This software is provided "AS IS", without warranty of any kind, express or impl
 ## Important Notice
 
 Unauthorized scanning of third-party networks may violate local laws, regulations, organizational policies, or terms of service.
-Any use of this project for illegal, malicious, disruptive, or unethical activities is strictly prohibited.
+Users are responsible for ensuring that they have proper authorization before using this software. The author is not responsible for any misuse of this project or any consequences resulting from its use.
